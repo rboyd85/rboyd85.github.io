@@ -11,7 +11,7 @@
 # PROFILE
 
 enter profile details here
-whwete
+
 # Development Portfolio
 
 Enter portfolio work here
