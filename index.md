@@ -15,14 +15,15 @@ so I have a very good understanding of both the technical and artistic sides of 
 which I was obsessed with as a small boy, ever since that day Gaming has become my life and something which was once a hobby has now become my career path.
 
 
-
-# 
+# Proficiencies
 
 
 
 # Development Portfolio
 
-[Chest Link](https://www.youtube.com/watch?v=orMFWexDawU)
+Below are some Links to YouTube Videos showcasing my work. 
+
+At college level we were given a brief to make a 3D chest from a design pre-requisite [Chest Link](https://www.youtube.com/watch?v=orMFWexDawU)
 
 
 # Blog
