@@ -35,7 +35,7 @@ At University we were tasked with making a number of retro games using C++ and t
 
 For our final C++ project from the first year we were tasked with replicating ANgry Birds in the ASGE engine 
 
-[Angry Birds](https://www.youtube.com/watch?v=7XM-aSdDQIs)
+[Angry Birds](https://youtu.be/LkSEjSF5Qlo)
 
 # Blog
 
