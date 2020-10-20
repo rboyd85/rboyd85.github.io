@@ -5,7 +5,7 @@
   
 
 
- ><img align="right" width="100" height="300" src="oreo.jpg">
+ ><img align="right" width="100" width="300" src="oreo.jpg">
  
  
 # PROFILE
