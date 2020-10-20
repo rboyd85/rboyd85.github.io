@@ -4,7 +4,7 @@
 ##                                                                  C++/C# Games Developer
   
 
-![PROFILE PIC](oreo.jpg =250 *250)
+![PROFILE PIC](oreo.jpg =250*250)
 # PROFILE
 
 enter profile details here
