@@ -6,7 +6,7 @@
 
 
  ><img align="right" width="100" width="300" src="oreo.jpg">
-  ><img align="right" width="100" width="300" src="oreo.jpg">
+
  
 # PROFILE
 
@@ -22,7 +22,7 @@ Enter portfolio work here
 
 Enter blog stuffs here
 
-
+ ><img align="right" width="100" width="300" src="space_invaders.jpg">
 
 # Contact details
 
