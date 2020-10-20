@@ -6,19 +6,23 @@
 
 
  ><img align="right" width="100" width="300" src="oreo.jpg">
- 
+  ><img align="right" width="100" width="300" src="oreo.jpg">
  
 # PROFILE
 
-enter profile details here ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+enter profile details here 
+
 
 # Development Portfolio
 
 Enter portfolio work here
 
+
 # Blog
 
 Enter blog stuffs here
+
+
 
 # Contact details
 
