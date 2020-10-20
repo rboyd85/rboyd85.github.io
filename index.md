@@ -1,5 +1,5 @@
 
-#                                                               Richard Boyd Portfolio <img src="oreo.jpg" width="100">    <p align="center"> 
+#                                                             <p align=  "Richard Boyd Portfolio" > <img src="oreo.jpg" width="100">    "center"> 
   
 ##                                                                  C++/C# Games Developer
   
