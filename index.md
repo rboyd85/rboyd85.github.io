@@ -3,10 +3,17 @@
   
 ##                                                                  C++/C# Games Developer
   
-#[Profile]
 
+![GitHub Logo](/images/logo.png)
+# PROFILE
 
-### Markdown
+enter profile details here
+
+# Development Portfolio
+
+Enter portfolio work here
+
+#
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
