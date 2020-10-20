@@ -10,7 +10,13 @@
  
 # PROFILE
 
-enter profile details here 
+Hi I'm Richard, I'm currently a under-graduate at UWE Bristol, enrolled on the GAMES TECHNOLOGY (BSc) course. Prieviously studied a Games Design BTEC at college level 
+so I have a very good understanding of both the technical and articstic sides of Video Game Design. I'm a mature student so my first home console was a Spectrum Zx
+which I was obsessed with as a small boy, ever since that day Gaming has become my life and something which was once a hobby has now become my career path.
+
+
+
+# 
 
 
 
