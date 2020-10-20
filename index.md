@@ -12,6 +12,7 @@
 
 enter profile details here 
 
+ ><img align="right" width="100" width="300" src="Space_invaders_alien.jpg">
 
 # Development Portfolio
 
@@ -22,7 +23,6 @@ Enter portfolio work here
 
 Enter blog stuffs here
 
- ><img align="right" width="100" width="300" src="Space_invaders_alien.jpg">
 
 # Contact details
 
