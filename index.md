@@ -4,7 +4,8 @@
 ##                                                                  C++/C# Games Developer
   
 
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 # PROFILE
 
 enter profile details here
