@@ -5,6 +5,7 @@
   
 
 ![PROFILE PIC](oreo.jpg) 
+<img src="oreo.jpg" width="48">
 # PROFILE
 
 enter profile details here
