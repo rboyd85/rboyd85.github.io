@@ -1,7 +1,7 @@
 
-  #                                                                 Richard Boyd Portfolio
+#                                                                  Richard Boyd Portfolio
   
-  ##                                                                C++/C# Games Developer
+##                                                                C++/C# Games Developer
   
 You can use the [editor on GitHub](https://github.com/rboyd85/rboyd85.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
