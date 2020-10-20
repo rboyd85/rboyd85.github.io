@@ -1,12 +1,12 @@
 
-#                                                         Richard Boyd Portfolio        <img src="oreo.jpg" width="100">   
+#                                                         Richard Boyd Portfolio          
   
 ##                                                            C++/C# Games Developer
   
 
 
 
-
+ <img src="oreo.jpg" width="300">
 
 # PROFILE
 
