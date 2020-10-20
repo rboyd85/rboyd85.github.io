@@ -5,8 +5,9 @@
   
 
 
-<img src="oreo.jpg" width="300"
-
+ ><img align="right" width="100" height="300" src="oreo.jpg">
+ 
+ 
 # PROFILE
 
 enter profile details here
