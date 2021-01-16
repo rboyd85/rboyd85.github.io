@@ -39,7 +39,7 @@ For our final C++ project from the first year we were tasked with replicating AN
 
 # Blog
 
-Enter blog stuffs here
+
 
  ><img align="right" width="100" width="300" src="Space_invaders_alien.jpg">
 
