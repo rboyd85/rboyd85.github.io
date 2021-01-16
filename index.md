@@ -33,11 +33,14 @@ At University we were tasked with making a number of retro games using C++ and t
 
 [PONG](https://youtu.be/2sB0q8qLngg)
 
-For our final C++ project from the first year we were tasked with replicating ANgry Birds in the ASGE engine 
+For our final C++ project from the first year we were tasked with replicating Angry Birds in the ASGE engine 
 
 [Angry Birds](https://youtu.be/LkSEjSF5Qlo)
 
+In the second year I've been looking into Game engine Architectures we were tasked with designing a system similar to the hit game PORTAL, in it I cretaed a system that can be implemented in multple games
 [PORTAL](https://youtu.be/5QiegIpUJRg)
+
+In private projects I'm creating a procedually generated game world similar to Minecraft below is my video of my explanation of how it works 
 
 # Blog
 
