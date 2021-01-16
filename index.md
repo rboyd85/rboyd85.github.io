@@ -37,7 +37,7 @@ For our final C++ project from the first year we were tasked with replicating AN
 
 [Angry Birds](https://youtu.be/LkSEjSF5Qlo)
 
-[PORTAL] https://youtu.be/5QiegIpUJRg
+[PORTAL](https://youtu.be/5QiegIpUJRg)
 
 # Blog
 
